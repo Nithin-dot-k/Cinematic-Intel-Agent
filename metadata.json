@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Intel Agent",
+  "description": "An autonomous AI agent for exploring movie databases using function calling and reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
